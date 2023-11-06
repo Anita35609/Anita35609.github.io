@@ -1,2 +1,13 @@
-p{color:rebeccapurple;font-size:large;}
+p
+{
+    color:rebeccapurple;
+    font-size:large;
+}
+
 body{background-color:rgb(178, 185, 113)}
+
+div
+
+{
+    max-width: 750px;
+}
