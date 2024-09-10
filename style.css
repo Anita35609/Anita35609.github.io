@@ -1,13 +1,15 @@
 p
 {
-    color:rebeccapurple;
+    color:rgb(153, 51, 85);
     font-size:large;
 }
 
-body{background-color:rgb(178, 185, 113)}
+body{background-color:rgb(113, 182, 185)}
 
 div
 
 {
     max-width: 750px;
+    margin:auto;
+    
 }
